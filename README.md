@@ -1,8 +1,8 @@
-# Simple Website with JavaScript Function
+# Simple Page with JavaScript Function
 [View Demo](https://russellshanenavarez.github.io/By/)
 
 ## Description
-This is a simple website created using HTML, CSS, and a small JavaScript function. The site includes basic web elements and a simple interactive feature to demonstrate JavaScript functionality.
+This is a simple page created using HTML, CSS, and a small JavaScript function. The site includes basic web elements and a simple interactive feature to demonstrate JavaScript functionality.
 
 ## Features
 - Basic HTML structure
